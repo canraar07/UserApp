@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UserApp</string>
+    <string name="loginusrtext">Masukan User ID</string>
+    <string name="loginpasstext">Masukan Password</string>
+    <string name="btnlogin">Login</string>
+    <string name="status_selesai">Selesai</string>
+    <string name="status_antri">Dalam Antrian</string>
+    <string name="status_progres">Dalam Pengerjaan</string>
+    <string name="status_sudahditugaskan">Sudah Di Tugaskan</string>
+    <string name="problem">Problem</string>
+    <string name="history">History</string>
+    <string name="logout">Logout</string>
+    <string name="notiket">No Tiket</string>
+    <string name="asetname">Aset Name</string>
+    <string name="tgl">Tanggal</string>
+    <string name="status">Status</string>
+    <string name="asetid">Aset ID</string>
+    <string name="asetbrand">Aset Brand</string>
+    <string name="notes">Notes</string>
+</resources>

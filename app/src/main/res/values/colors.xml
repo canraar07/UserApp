@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="coloraplikasi">#1AAFD3</color>
+    <color name="colorButonubhstatus">#E6E632</color>
+    <color name="colorTextRed">#FF0808</color>
+    <color name="colorTextgren">#08FF2E</color>
+    <color name="colorTextWhite">#FFFFFF</color>
+    <color name="colorButonGreen">#47E632</color>
+</resources>
